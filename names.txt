@@ -1,1 +1,3 @@
 Jayant
+press insert to change lines with arrow keyyyyy :::::z
+press esc and then ":x" to save n exit from vi
